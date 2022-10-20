@@ -1,4 +1,4 @@
-#Google Docs to Youtube Description Updater
+# Google Docs to Youtube Description Updater
 
 ## Purpose
 
@@ -6,7 +6,7 @@ This project was designed to pull contents from a google doc and combine with a 
 I use this project to automate the descriptions to a podcast on youtube. Since timestamping a podcast after recording can be time-consuming,
 we timestamp the episode during recording on google docs. 
 
-##Usage
+## Usage
 
 The assumption is that the Google Docs description will go in between the intro and outro of the description.
 ** A line of --- or *** should be used in the Google Doc to tell the program where to stop** (this also allows you to use the Doc below that line)
@@ -38,9 +38,8 @@ Subtopic
 Im the 2nd Topic
 
 Im the 3rd Topic
-----------------
 
-Would turn into -->
+** Would turn into --> **
 
 1. Im a Topic
   Subtopic
