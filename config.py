@@ -1,1 +1,2 @@
-google_sheet_id=<insert_sheet_id_here>
+google_sheet_id='insert_sheet_id_here'
+description_template='replace_me_with_filename.txt'
